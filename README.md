@@ -18,7 +18,8 @@ Production‑style FastAPI application for storing addresses and searching nearb
 
 Clone repo
 
-git clone <repo_url>
+git clone https://github.com/reshma123456/address-book-api-production.git
+
 cd address-book-api
 
 Create virtual environment
