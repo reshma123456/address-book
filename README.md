@@ -18,9 +18,9 @@ Production‑style FastAPI application for storing addresses and searching nearb
 
 Clone repo
 
-git clone https://github.com/reshma123456/address-book-api-production.git
+git clone https://github.com/reshma123456/address-book.git
 
-cd address-book-api
+cd address-book
 
 Create virtual environment
 
@@ -34,6 +34,10 @@ venv\Scripts\activate
 Install dependencies
 
 pip install -r requirements.txt
+
+OR
+
+python -m pip install -r requirements.txt
 
 Run server
 
